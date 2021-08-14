@@ -54,4 +54,15 @@ namespace TestArgyBargySpike
         [CmdArg("--help", "-h", OPTIONAL, "Library")]
         public string help { get; set; }
     }
+
+    public class ValueAttribute
+    {
+        const bool REQUIRED = true;
+        const bool OPTIONAL = false;
+
+        [CmdArg("--artist", "-a", REQUIRED, "Artist name"),
+         CmdValues("crosby, stills, nash, young")]
+        public string artist { get; set; }
+    }
+
 }

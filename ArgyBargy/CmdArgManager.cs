@@ -36,7 +36,8 @@ namespace CommandLineUtility
             Success,
             UnknownFlagsOrShorthandPresent,
             ValueMissing,
-            ValueMustBeANumber
+            ValueMustBeANumber,
+            ExceptionOccurred
         }
 
         public CmdArgManager(dynamic o, string[] args, string description) : this((object)o, args, description, null)
