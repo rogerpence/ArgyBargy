@@ -26,4 +26,18 @@ namespace CommandLineUtility
         }
     }
 
+    [System.AttributeUsage(System.AttributeTargets.Property)]
+    public class CmdValuesAttribute : System.Attribute
+    {
+        public string values;
+
+        public CmdValuesAttribute(string values)
+        {
+            this.values = values;
+        }
+    }
+
+
+
+
 }

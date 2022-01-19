@@ -85,7 +85,6 @@ namespace CommandLineUtility
         // the next argument should provide its value. 
         public bool readyForNextValue(List<string> id, List<string> value)
         {
-        
             return id.Count > value.Count;
         }
 
