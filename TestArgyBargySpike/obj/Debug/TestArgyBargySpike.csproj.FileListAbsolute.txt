@@ -1,0 +1,10 @@
+C:\Users\roger\Documents\Programming\CS\Other\TestArgyBargySpike\TestArgyBargySpike\bin\Debug\TestArgyBargySpike.dll
+C:\Users\roger\Documents\Programming\CS\Other\TestArgyBargySpike\TestArgyBargySpike\bin\Debug\TestArgyBargySpike.pdb
+C:\Users\roger\Documents\Programming\CS\Other\TestArgyBargySpike\TestArgyBargySpike\bin\Debug\ArgyBargy.dll
+C:\Users\roger\Documents\Programming\CS\Other\TestArgyBargySpike\TestArgyBargySpike\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\roger\Documents\Programming\CS\Other\TestArgyBargySpike\TestArgyBargySpike\bin\Debug\ArgyBargy.pdb
+C:\Users\roger\Documents\Programming\CS\Other\TestArgyBargySpike\TestArgyBargySpike\obj\Debug\TestArgyBargySpike.dll
+C:\Users\roger\Documents\Programming\CS\Other\TestArgyBargySpike\TestArgyBargySpike\obj\Debug\TestArgyBargySpike.pdb
+C:\Users\roger\Documents\Programming\cs\other\TestArgyBargySpike\TestArgyBargySpike\obj\Debug\TestArgyBargySpike.csprojAssemblyReference.cache
+C:\Users\roger\Documents\Programming\cs\other\TestArgyBargySpike\TestArgyBargySpike\obj\Debug\TestArgyBargySpike.csproj.CoreCompileInputs.cache
+C:\Users\roger\Documents\Programming\cs\other\TestArgyBargySpike\TestArgyBargySpike\obj\Debug\TestArgyBargySpike.csproj.CopyComplete
