@@ -273,7 +273,7 @@ namespace CommandLineUtility
 
         protected virtual void OnHelpShown(ShowHelpEventArgs e)
         {
-            //HelpShown.Invoke(this, e);
+            HelpShown.Invoke(this, e);
         }
 
         public ExitCode ShowHelp()
